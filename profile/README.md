@@ -24,9 +24,5 @@ Two teams of elite Gecko Security Researchers test your Smart Contracts, perform
 </table>
 
 # Fuzzing
-Smart Contract Fuzzing simulates millions of randomized and targeted transactions probing your system for critical flaws. 
+Smart Contract Fuzzing simulates millions of randomized and targeted transactions probing your system for critical flaws. In every engagement, Gecko fuzzing engineers construct a comprehensive stateful fuzzing suite for your Smart Contract system.
 
-In every engagement, Guardian fuzzing engineers construct a comprehensive stateful fuzzing suite for your Smart Contract system.
-
-# Remediation Review
-All remediations are reviewed by both teams independently and fuzzed thoroughly to ensure issues are fully patched and no new issues arise.
