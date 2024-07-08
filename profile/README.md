@@ -14,7 +14,8 @@ Two teams of elite Gecko Security Researchers test your Smart Contracts, perform
     </td>
     <td style="border: none; padding: 0 10px; background: transparent;">
       <h2>Pay-Per-Vulnerability</h2>
-      Gecko offers two engagement pricing options: Flat-cost and Pay-per-vulnerability<br></br>
+       <li>Flat-cost</li>
+       <li>Pay-per-vulnerability</li>
     </td>
   </tr>
 </table>
