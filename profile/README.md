@@ -1,8 +1,9 @@
-## We combine security research with a real-world hacker mentality to secure critical software.
+We combine security research with a real-world hacker mentality to secure critical software.
+      <ul>
         <li>Smart Contract Security (EVM & STX)</li>
         <li>Penetration Testing & Code Auditing</li>
         <li>Security Research</li>
-
+      </ul>
 # Methodology
 Two teams of elite Gecko Security Researchers test your Smart Contracts, performing independent reviews.
 
