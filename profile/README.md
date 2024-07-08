@@ -15,14 +15,8 @@ Two teams of elite Gecko Security Researchers test your Smart Contracts, perform
     <td style="border: none; padding: 0 10px; background: transparent;">
       <h2>Pay-Per-Vulnerability</h2>
       Gecko offers two engagement pricing options: Flat-cost and Pay-per-vulnerability<br></br>
-      <ul>
-        <li>Think your code is unbreakable? → Go with the Pay-per-vulnerability option</li>
-        <li>Just want to fit us into your budget? → Take the Flat-cost</li>
-      </ul>
     </td>
   </tr>
 </table>
 
-# Fuzzing
-Smart Contract Fuzzing simulates millions of randomized and targeted transactions probing your system for critical flaws. In every engagement, Gecko fuzzing engineers construct a comprehensive stateful fuzzing suite for your Smart Contract system.
 
