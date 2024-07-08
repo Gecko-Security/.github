@@ -1,4 +1,4 @@
-## We combine security research with a real-world hacker mentality to secure critical software.</strong><br></br>
+## We combine security research with a real-world hacker mentality to secure critical software.
         <li>Smart Contract Security (EVM & STX)</li>
         <li>Penetration Testing & Code Auditing</li>
         <li>Security Research</li>
