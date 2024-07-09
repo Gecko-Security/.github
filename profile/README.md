@@ -10,16 +10,7 @@
         <li>Penetration Testing & Code Auditing</li>
         <li>Security Research</li>
       </ul>
-      <strong>View our [Portfolio](https://github.com/Gecko-Security/audits)</strong><br></br>
-      <strong> Pay-Per-Vulnerability</strong><br></br>
-      Gecko offers two engagement pricing options: Flat-cost and Pay-per-vulnerability
-
-Think your code is unbreakable?
-- Go with the Pay-per-vulnerability option
-
-Just want to fit us into your budget?
-- Take the Flat-cost
-  
+<strong>View our <a href="https://github.com/Gecko-Security/audits">Portfolio</a></strong><br>
     </td>
   </tr>
 </table>
