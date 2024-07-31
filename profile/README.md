@@ -4,7 +4,7 @@
       <img src="https://github.com/Gecko-Security/.github/assets/22000925/8317ffe7-58cf-4f8b-ab58-b083578f44dc" width="400">
     </td>
     <td style="border: none; padding: 0 10px; background: transparent;">
-      Gecko specializes in securing emerging technologies. With our background in real-world offensive security research, we find what others miss.
+      Gecko specializes in securing emerging technologies. With our background in real-world offensive security research and security engineering we find what others miss.
       <br><br>
       <strong>Services:</strong><br>
       <ul>
