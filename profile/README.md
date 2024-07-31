@@ -6,7 +6,7 @@
     <td style="border: none; padding: 0 10px; background: transparent;">
       <strong>Services:</strong><br></br>
       <ul>
-        <li>Smart Contract Security (EVM, Stacks)</li>
+        <li>Smart Contract Security (EVM, STX)</li>
         <li>Penetration Testing & Code Auditing</li>
         <li>Security Research</li>
       </ul>
