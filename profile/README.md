@@ -12,7 +12,6 @@
         <li>Smart Contract Security (EVM, STX)</li>
         <li>Custom Vulnerability Research</li>
       </ul>
-      <strong>View our <a href="https://github.com/Gecko-Security/audits">Portfolio</a></strong><br>
     </td>
   </tr>
 </table>
