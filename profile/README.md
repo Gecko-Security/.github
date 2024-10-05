@@ -8,8 +8,8 @@
       <br><br>
       <strong>Services:</strong><br>
       <ul>
+        <li>Penetration Testing & Red Teaming</li>
         <li>Smart Contract Security (EVM, STX)</li>
-        <li>Penetration Testing & Application Security</li>
         <li>Custom Vulnerability Research</li>
       </ul>
       <strong>View our <a href="https://github.com/Gecko-Security/audits">Portfolio</a></strong><br>
